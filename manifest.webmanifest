@@ -1,0 +1,55 @@
+{
+    "name": "Dna Mkt Digital",
+    "short_name": "Dna Mkt",
+    "lang": "pt-br",
+    "scope": "/",
+    "icons": [
+        {
+            "src": "/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "mstile-150x150.png",
+            "sizes": "150x150",
+            "type": "image/png"
+        },
+        {
+            "src": "mstile-310x310.png",
+            "sizes": "310x310",
+            "type": "image/png"
+        },
+        {
+            "src": "favicon-32x32.png",
+            "sizes": "32x32",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "/",
+    "display": "standalone",
+    "theme_color": "#217dea",
+    "background_color": "#1ea1ef",
+    "id": "Dna Mkt Digital",
+    "description": "A DNA Mkt Digital oferece uma gama completa de serviços de TI e marketing digital para empresas. Especializados em manutenção de computadores, suporte de TI, criação de sites, otimização de SEO e performance do site, nossa equipe está preparada para atender todas as suas necessidades tecnológicas. Conte conosco para impulsionar o sucesso do seu negócio online.",
+    "categories": [
+        "business",
+        "education",
+        "productivity"
+    ]
+}
